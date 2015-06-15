@@ -1,8 +1,7 @@
 
 #2015年6月14日 星期日 
-* python
 
-> 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
+* 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
 
 ***
 
