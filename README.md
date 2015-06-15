@@ -56,8 +56,10 @@ python
 
 # 2015年5月28日 星期四 
 * delegate，block，kvo，notification，target-action
+
 # 2015年5月27日 星期三 
 * tableview界面JHCellConfig的使用（复杂界面的构造使用，使用范围比较小，使用原本的构造方式）
+
 # 2015年5月26日 星期二 
 * ios研究：KVC和KVO（key-value coding:对实例的属性，没有提供set方法进行赋值，kvo，对对象属性进行监听，当对象属性改变时，触发方法）
 * 学习app engine和数据服务的使用，主流bae和ace，（LeanCloud提供更完善服务，进行leancloud学习）
