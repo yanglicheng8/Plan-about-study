@@ -1,9 +1,19 @@
+<ul id="tree" class="ztree"></ul>
+<article class='markdown-body'>
+<br/><br/><br/><br/>
+      
 
-#2015年6月14日 星期日 
+
+
+
+
+
+
+# 2015年6月14日 星期日 
 
 * 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
 
-#2015年6月14日 星期日
+# 2015年6月14日 星期日
 
 python
 * 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
@@ -74,6 +84,8 @@ python
 * mac下charles工具使用，分析请求链接
 * 学习csdn博客markdown编写（已经完成第一篇markdown博客的编写）
 
+
+
 # 2015年5月20日 星期三 
 
 * MJExtention的使用（轻量级json数据转化model框架，demo使用已经阅读，项目中暂时没有使用，没有写博客记录）
@@ -82,3 +94,32 @@ python
 # 2015年5月19日 星期二 
 * prototype和mockup的区别（样张mockup是只有简单的效果图，prototype是建立了点击效果和动画效果）
 * 如何使用mvc建立一个ios项目（model使用MJExtention，mantle建立）
+
+
+
+</article>
+
+
+<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery.ztree.all-3.5.min.js"></script>
+<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery.ztree_toc.js"></script>
+<SCRIPT type="text/javascript" >
+			<!--
+			$(document).ready(function(){
+				$('#tree').ztree_toc({
+					is_auto_number:true,
+					documment_selector:'.markdown-body',
+					ztreeStyle: {
+						width:'260px',
+						overflow: 'auto',
+						position: 'fixed',
+						'z-index': 2147483647,
+						border: '0px none',
+						left: '0px',
+						top: '0px'
+					}
+				});
+			});
+			//-->
+			</SCRIPT>
+
