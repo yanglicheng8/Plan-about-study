@@ -1,7 +1,3 @@
-<ul id="tree" class="ztree"></ul>
-<article class='markdown-body'>
-<br/><br/><br/><br/>
-      
 
 
 
@@ -9,15 +5,13 @@
 
 
 
-# 2015年6月14日 星期日 
-
-* 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
+# 2015年6月26日 星期五
+* 使用原生动画和pop框架构建app动画
 
 # 2015年6月14日 星期日
 
 python
-* 使用virtualenv搭建虚拟的python环境（已经使用，总结成博客）
-other
+* 使用virtualenv搭建虚拟的python环境（已经使用，正在总结成博客）
 
 #2015年6月9日 星期二 
 app
@@ -97,29 +91,5 @@ python
 
 
 
-</article>
 
-
-<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery-1.10.2.min.js"></script>
-<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery.ztree.all-3.5.min.js"></script>
-<script type="text/javascript" src="http://i5ting.github.io/git-quick-start/preview/js/jquery.ztree_toc.js"></script>
-<SCRIPT type="text/javascript" >
-			<!--
-			$(document).ready(function(){
-				$('#tree').ztree_toc({
-					is_auto_number:true,
-					documment_selector:'.markdown-body',
-					ztreeStyle: {
-						width:'260px',
-						overflow: 'auto',
-						position: 'fixed',
-						'z-index': 2147483647,
-						border: '0px none',
-						left: '0px',
-						top: '0px'
-					}
-				});
-			});
-			//-->
-			</SCRIPT>
 
