@@ -42,7 +42,7 @@ Reveal界面构图分析工具，个人版2台设备永久2.x使用权，中国�
 
 
 # other
-
+* 《游戏改变世界》TED演讲者Jane McGonigal著，游戏化如何让现实变得更美好
 * 《引爆点》书籍阅读，怎样使用流行来推广产品
 * 学习app engine和数据服务的使用，主流bae和ace，（LeanCloud提供更完善服务，进行leancloud学习）
 * bae提供svn和git两种版本控制，没有结构化数据NOSQL服务，云服务还不全面，0.2元/天
