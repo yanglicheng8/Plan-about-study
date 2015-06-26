@@ -1,5 +1,6 @@
 
-
+ [ios](#ios)
+[python](#python)
 
 
 
@@ -12,7 +13,7 @@
 
 # 2015年6月14日 星期日
 
-python
+#python
 * 使用virtualenv搭建虚拟的python环境（已经使用，正在总结成博客）
 
 #2015年6月9日 星期二 
