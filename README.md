@@ -43,6 +43,7 @@ Reveal界面构图分析工具，个人版2台设备永久2.x使用权，中国�
 
 
 # other
+* 使用paddoc转换markdow文件为word文件
 * 《游戏改变世界》TED演讲者Jane McGonigal著，游戏化如何让现实变得更美好
 * 《引爆点》书籍阅读，怎样使用流行来推广产品
 * 学习app engine和数据服务的使用，主流bae和ace，（LeanCloud提供更完善服务，进行leancloud学习）
